@@ -74,7 +74,7 @@
         {
             "request": {
                 "method": "PUT",
-                "uri": "https://sheets.googleapis.com/v4/spreadsheets/1f6e0m42XXAsEMJnr5-lzOf6srAjvBmOuuQlmU0npwR4/values/%27D3%27%21A1%3AA10?valueInputOption=RAW",
+                "uri": "https://sheets.googleapis.com/v4/spreadsheets/1f6e0m42XXAsEMJnr5-lzOf6srAjvBmOuuQlmU0npwR4/values/%27D3%27%21A1%3AA6?valueInputOption=RAW",
                 "body": "{\"values\": [[\"test_update_cells 1\\ntest_update_cells 1\"], [\"test_update_cells 2\"], [\"test_update_cells 3\"], [\"test_update_cells 4\"], [\"test_update_cells 5\"], [\"test_update_cells 6\"], [\"test_update_cells 7\"], [\"test_update_cells 8\"], [\"test_update_cells 9\"], [\"test_update_cells 10\"]]}",
                 "headers": {
                     "User-Agent": [
